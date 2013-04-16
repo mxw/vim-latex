@@ -1,13 +1,7 @@
-# vim-LaTeX
+vim-LaTeX
+=========
 
-http://sourceforge.net/projects/vim-latex/files
-
-## Why?
-
-Because I want to be able to easily update this suite of tools without using
-Subversion and because Sourceforge suck at supporting git!
-
-## Updates
-
-I'll do my best to keep this repo stable and up-to-date but if there's an
-update available that I haven't spotted please do let me know.
+A personal fork of [jcf's](https://github.com/jcf/vim-latex) mirror of the
+[vim-latex](http://sourceforge.net/projects/vim-latex/files) plugin, in which I
+delete a bunch of the things that make vim-latex more than LaTeX-Box because I
+don't like them.
